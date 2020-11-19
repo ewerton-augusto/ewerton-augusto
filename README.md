@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Olá! tudo bom? Seja bem-vindo ao meu perfil! (PT)
 
-Sou o Ewerton de São Paulo, 26 anos. 
+Sou o Ewerton de São Paulo, 27 anos. 
 
 Tenho atuado na área de tecnologia desde 2013 inicialmente com suporte técnico ao usuário, posteriormente com gestão e implantação de servidores e atualmente tenho encarado novos desafios como desenvolvedor web full-stack desde 2018. Sou apaixonado pelo desenvolvimento front e busco trazer a melhor experiência para os usuários. Tenho como objetivo me especializar e desenvolver projetos acessíveis que incluam o maior número de pessoas PcD (pessoa com deficiência) ao mundo de tecnologia.
 
@@ -31,7 +31,7 @@ No meu tempo livre gosto de assistir séries e filmes (🎞️), ler livros (esp
 
 ### Hello! how are you? Welcome to my profile! (EN)
 
-I am Ewerton Augusto from São Paulo/Brazil and I am 26y.o.
+I am Ewerton Augusto from São Paulo/Brazil and I am 27y.o.
 
 I've been working in IT since 2013. Firstly, I've worked in technical support, later I managed and deployed servers. Currently, I've faced challenges as a full-stack web developer since 2018. I am passionate about front development and I seek to bring the best experience to the users. I aim to specialize and develop accessible projects that include the largest number of PwD people (people with disabilities) to the world of technology.
 
