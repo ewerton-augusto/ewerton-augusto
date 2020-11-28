@@ -29,10 +29,14 @@ Tenho atuado na área de tecnologia desde 2013 inicialmente com suporte técnico
 
 No meu tempo livre gosto de assistir séries e filmes (🎞️), ler livros (especialmente livros de desenvolvimento pessoal e educação financeira 📚), escutar músicas (🎵), tocar violão (:guitar:), participar de projetos voluntários e visitar familiares e amigos (:family:).
 
+🌱 Atualmente estudando: JS (poo, es6, IndexedDB) | CSS (css grid, Flexbox, sass) | DevOps (Docker)
+
 ### Hello! how are you? Welcome to my profile! (EN)
 
-I am Ewerton Augusto from São Paulo/Brazil and I am 27y.o.
+I am Ewerton Augusto from São Paulo/Brazil and I am 27 years old.
 
-I've been working in IT since 2013. Firstly, I've worked in technical support, later I managed and deployed servers. Currently, I've faced challenges as a full-stack web developer since 2019. I am passionate about front development and I seek to bring the best experience to the users. I aim to specialize and develop accessible projects that include the largest number of PwD people (people with disabilities) to the world of technology.
+I have been working in IT since 2013. Firstly, I have worked in technical support, later I managed and deployed servers. Currently, I have faced challenges as a full-stack web developer since 2019. I am passionate about front development and I seek to bring the best experience to the users. I aim to specialize and develop accessible projects that include the largest number of PwD people (people with disabilities) to the world of technology.
 
-In my free time, I'm keen on watching series and movies (🎞️), reading books (especially books on personal development and financial education 📚), listening to music (🎵), playing the acoustic guitar (🎸), participating in volunteer projects, and visiting family and friends ( 👪).
+In my free time, I am keen on watching series and movies (🎞️), reading books (especially books on personal development and financial education 📚), listening to music (🎵), playing the acoustic guitar (🎸), participating in volunteer projects, and visiting family and friends ( 👪).
+
+🌱 I am currently learning: JS (poo, es6, IndexedDB) | CSS (css grid, Flexbox, sass) | DevOps (Docker)
