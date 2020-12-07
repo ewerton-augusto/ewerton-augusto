@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 Sou o Ewerton de São Paulo, 27 anos. 
 
-Tenho atuado na área de tecnologia desde 2013 inicialmente com suporte técnico ao usuário, posteriormente com gestão e implantação de servidores e atualmente tenho encarado novos desafios como desenvolvedor web full-stack desde 2019. Sou apaixonado pelo desenvolvimento front e busco trazer a melhor experiência para os usuários. Tenho como objetivo me especializar e desenvolver projetos acessíveis que incluam o maior número de pessoas PcD (pessoa com deficiência) ao mundo de tecnologia.
+Tenho atuado na área de tecnologia desde 2013 inicialmente com suporte técnico ao usuário, posteriormente com gestão e implantação de servidores, e como gestor/coordenador do time técnico, orientando e apoiando-os. Atualmente tenho encarado novos desafios como desenvolvedor web full-stack desde 2019. Sou apaixonado pelo desenvolvimento front e busco trazer as melhores experiências para os usuários. Tenho como objetivo me especializar e desenvolver projetos acessíveis que incluam o maior número de pessoas PcD (pessoa com deficiência) ao mundo de tecnologia.
 
 No meu tempo livre gosto de assistir séries e filmes (🎞️), ler livros (especialmente livros de desenvolvimento pessoal e educação financeira 📚), escutar músicas (🎵), tocar violão (:guitar:), participar de projetos voluntários e visitar familiares e amigos (:family:).
 
@@ -35,7 +35,7 @@ No meu tempo livre gosto de assistir séries e filmes (🎞️), ler livros (esp
 
 I am Ewerton Augusto from São Paulo/Brazil and I am 27 years old.
 
-I have been working in IT since 2013. Firstly, I have worked in technical support, later I managed and deployed servers. Currently, I have faced challenges as a full-stack web developer since 2019. I am passionate about front development and I seek to bring the best experience to the users. I aim to specialize and develop accessible projects that include the largest number of PwD people (people with disabilities) to the world of technology.
+I have been working in IT since 2013. Firstly, I have worked in technical support, later I managed and deployed servers and I managed the technical team, supporting and guiding them. Currently, I have faced challenges as a full-stack web developer since 2019. I am passionate about front development and I seek to bring the best experience to the users. I aim to specialize and develop accessible projects that include the largest number of PwD people (people with disabilities) to the world of technology.
 
 In my free time, I am keen on watching series and movies (🎞️), reading books (especially books on personal development and financial education 📚), listening to music (🎵), playing the acoustic guitar (🎸), participating in volunteer projects, and visiting family and friends ( 👪).
 
