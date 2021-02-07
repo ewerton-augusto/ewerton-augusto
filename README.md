@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ewertonaugusto_)](https://twitter.com/ewertonaugusto_)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewerton-augusto)](https://www.linkedin.com/in/ewerton-augusto)
 
-### Olá! tudo bom? Seja bem-vindo ao meu perfil! (PT)
+### Olá! tudo bom? Seja bem-vindo ao meu perfil! (PT-BR)
 
 Ewerton de São Paulo, 27 anos.
 
@@ -31,7 +31,7 @@ Em seu tempo livre gosta de assistir séries e filmes (🎞️), ler livros (esp
 
 🌱 Atualmente está estudando: JS (ReactJS, NextJS) | CSS (sass) | DevOps (Docker) | Back (NodeJS)
 
-### Hello! how are you? Welcome to my profile! (EN)
+### Hello! how are you? Welcome to my profile! (ENG)
 
 Ewerton Augusto from São Paulo/Brazil, 27 years old.
 
