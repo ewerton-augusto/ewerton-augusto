@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Olá! tudo bom? Seja bem-vindo ao meu perfil! (PT-BR)
 
-Ewerton de São Paulo, 27 anos.
+Ewerton Augusto de São Paulo, 27 anos.
 
 Ewerton tem atuado na área de tecnologia desde 2013, inicialmente com suporte técnico aos usuários com problemas de software e hardware, posteriormente com o gerenciamento de servidores Windows Server e Linux, após na gestão de pessoas como coordenador do time técnico de suporte. Desde 2019 encara novos desafios como desenvolvedor web full-stack. Apaixonado pelo desenvolvimento front-end busca trazer as melhores experiências para os usuários. Tem como objetivo especializar-se e desenvolver projetos acessíveis que incluam o maior número de pessoas PcD (pessoa com deficiência) ao mundo de tecnologia.
 
