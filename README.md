@@ -23,20 +23,20 @@ Here are some ideas to get you started:
 
 ### Olá! tudo bom? Seja bem-vindo ao meu perfil! (PT)
 
-Sou o Ewerton de São Paulo, 27 anos. 
+Ewerton de São Paulo, 27 anos.
 
-Tenho atuado na área de tecnologia desde 2013 inicialmente com suporte técnico ao usuário, posteriormente com gestão e implantação de servidores, e como gestor/coordenador do time técnico, orientando e apoiando-os. Atualmente tenho encarado novos desafios como desenvolvedor web full-stack desde 2019. Sou apaixonado pelo desenvolvimento front e busco trazer as melhores experiências para os usuários. Tenho como objetivo me especializar e desenvolver projetos acessíveis que incluam o maior número de pessoas PcD (pessoa com deficiência) ao mundo de tecnologia.
+Ewerton tem atuado na área de tecnologia desde 2013, inicialmente com suporte técnico aos usuários com problemas de software e hardware, posteriormente com o gerenciamento de servidores Windows Server e Linux, após na gestão de pessoas como coordenador do time técnico de suporte. Desde 2019 encara novos desafios como desenvolvedor web full-stack. Apaixonado pelo desenvolvimento front-end busca trazer as melhores experiências para os usuários. Tem como objetivo especializar-se e desenvolver projetos acessíveis que incluam o maior número de pessoas PcD (pessoa com deficiência) ao mundo de tecnologia.
 
-No meu tempo livre gosto de assistir séries e filmes (🎞️), ler livros (especialmente livros de desenvolvimento pessoal e educação financeira 📚), escutar músicas (🎵), tocar violão (:guitar:), participar de projetos voluntários e visitar familiares e amigos (:family:).
+Em seu tempo livre gosta de assistir séries e filmes (🎞️), ler livros (especialmente livros de desenvolvimento pessoal e educação financeira 📚), escutar músicas (🎵), tocar violão (:guitar:), participar de projetos voluntários e visitar familiares e amigos (:family:).
 
-🌱 Atualmente estudando: JS (poo, es6, IndexedDB) | CSS (css grid, Flexbox, sass) | DevOps (Docker)
+🌱 Atualmente está estudando: JS (ReactJS, NextJS) | CSS (sass) | DevOps (Docker) | Back (NodeJS)
 
 ### Hello! how are you? Welcome to my profile! (EN)
 
-I am Ewerton Augusto from São Paulo/Brazil and I am 27 years old.
+Ewerton Augusto from São Paulo/Brazil, 27 years old.
 
-I have been working in IT since 2013. Firstly, I have worked in technical support, later I managed and deployed servers and I managed the technical team, supporting and guiding them. Currently, I have faced challenges as a full-stack web developer since 2019. I am passionate about front development and I seek to bring the best experience to the users. I aim to specialize and develop accessible projects that include the largest number of PwD people (people with disabilities) to the world of technology.
+He has been working in IT since 2013. Firstly, he has worked in technical support, later he managed and deployed servers and he managed the technical team, supporting and guiding them. Currently, he is facing challenges as a full-stack web developer since 2019. Front-end development is his cup of tea and He seeks to bring the best experience to the users. He aims to be specialized in developing accessible projects that include the largest number of PwD people (people with disabilities) to the world of technology.
 
-In my free time, I am keen on watching series and movies (🎞️), reading books (especially books on personal development and financial education 📚), listening to music (🎵), playing the acoustic guitar (🎸), participating in volunteer projects, and visiting family and friends ( 👪).
+In his free time, He is keen on watching series and movies (🎞️), reading books (especially books on personal development and financial education 📚), listening to music (🎵), playing the acoustic guitar (🎸), participating in volunteer projects, and visiting family and friends ( 👪).
 
-🌱 I am currently learning: JS (poo, es6, IndexedDB) | CSS (css grid, Flexbox, sass) | DevOps (Docker)
+🌱 He is currently learning: JS (ReactJS, NextJS) | CSS (sass) | DevOps (Docker) | Back (NodeJS)
