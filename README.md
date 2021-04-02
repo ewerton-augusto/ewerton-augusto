@@ -34,6 +34,8 @@ Em seu tempo livre gosta de assistir séries e filmes (🎞️), ler livros (esp
 
 🌱 Atualmente está estudando: JS (ReactJS, NextJS) | CSS (sass) | DevOps (Docker)
 
+---
+
 ### Hello! how are you? Welcome to my profile! (ENG)
 
 Ewerton Augusto from São Paulo/Brazil, 27 years old.
