@@ -23,20 +23,27 @@ Here are some ideas to get you started:
 
 ### Olá! tudo bom? Seja bem-vindo ao meu perfil! (PT-BR)
 
-Ewerton Augusto de São Paulo, 27 anos.
+Desenvolvedor full-stack formado em análise e desenvolvimento de sistemas com 9 anos de experiência na área de tecnologia, expertises sendo aperfeiçoadas e focados em front-end, desenvolvendo soluções com JavaScript, ReactJS, jQuery, CSS3, HTML5 e com experiências em back-end desenvolvendo com PHP, C#, MySQL e MongoDB.
 
-Ewerton tem atuado na área de tecnologia desde 2013, inicialmente com suporte técnico aos usuários com problemas de software e hardware, posteriormente com o gerenciamento de servidores Windows Server e Linux, após na gestão de pessoas como coordenador do time técnico de suporte. Desde 2019 encara novos desafios como desenvolvedor web full-stack. Apaixonado pelo desenvolvimento front-end busca trazer as melhores experiências para os usuários. Tem como objetivo especializar-se e desenvolver projetos acessíveis que incluam o maior número de pessoas PcD (pessoa com deficiência) ao mundo de tecnologia.
+Atuação no desenvolvimento de projetos para diferentes setores, como engenharia automotiva, setor financeiro,
+manufatura de matérias primas e setores industriais.
+
+Gestão e condução do ciclo de vida de soluções web e aplicações desktop, desde o entendimento da real necessidade do cliente, planejamento, desenvolvimento, implantação e suporte seguindo metodologias ágeis. Resolução de problemas com qualidade e evitando retrabalhos no desenvolvimento de novas soluções. Maior vivência em suporte técnico, gerenciamento de servidores e gestão de pessoas.
 
 Em seu tempo livre gosta de assistir séries e filmes (🎞️), ler livros (especialmente livros de desenvolvimento pessoal e educação financeira 📚), escutar músicas (🎵), tocar violão (:guitar:), participar de projetos voluntários e visitar familiares e amigos (:family:).
 
-🌱 Atualmente está estudando: JS (ReactJS, NextJS) | CSS (sass) | DevOps (Docker) | Back (NodeJS)
+🌱 Atualmente está estudando: JS (ReactJS, NextJS) | CSS (sass) | DevOps (Docker)
 
 ### Hello! how are you? Welcome to my profile! (ENG)
 
 Ewerton Augusto from São Paulo/Brazil, 27 years old.
 
-He has been working in IT since 2013. Firstly, he has worked in technical support, later he managed and deployed servers and he managed the technical team, supporting and guiding them. Currently, he is facing challenges as a full-stack web developer since 2019. Front-end development is his cup of tea and He seeks to bring the best experience to the users. He aims to be specialized in developing accessible projects that include the largest number of PwD people (people with disabilities) to the world of technology.
+Full-stack developer graduated in System Analysis and Development with 9 years of experience in technology area, expertises being perfected and focused on front-end, developing solutions with JavaScript, ReactJS, jQuery, CSS3, HTML5 and experience in back-end developing in PHP, C#, MySQL, and MongoDB.
+
+Professional performance in project development for several fields such as automotive engineering, financial department, raw material manufacture, and industrial area.
+
+Management and leadership of desktop applications and web solutions life cycle, since understanding real necessities of the client, planning, developing, deploying and supporting, working with agile methodologies. Problem solving with high quality in order to avoid re-work when developing new solutions. Large experience in helpdesk, server and people management.
 
 In his free time, He is keen on watching series and movies (🎞️), reading books (especially books on personal development and financial education 📚), listening to music (🎵), playing the acoustic guitar (🎸), participating in volunteer projects, and visiting family and friends ( 👪).
 
-🌱 He is currently learning: JS (ReactJS, NextJS) | CSS (sass) | DevOps (Docker) | Back (NodeJS)
+🌱 He is currently learning: JS (ReactJS, NextJS) | CSS (sass) | DevOps (Docker)
