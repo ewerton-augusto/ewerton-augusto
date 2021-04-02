@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Olá! tudo bom? Seja bem-vindo ao meu perfil! (PT-BR)
 
-Desenvolvedor full-stack formado em análise e desenvolvimento de sistemas com 9 anos de experiência na área de tecnologia, expertises sendo aperfeiçoadas e focados em front-end, desenvolvendo soluções com JavaScript, ReactJS, jQuery, CSS3, HTML5 e com experiências em back-end desenvolvendo com PHP, C#, MySQL e MongoDB.
+Desenvolvedor full-stack formado em análise e desenvolvimento de sistemas com 9 anos de experiência na área de tecnologia, expertises sendo aperfeiçoadas e focados em front-end, desenvolvendo soluções com JavaScript, ReactJS, jQuery, CSS3, HTML5 e com experiências em back-end desenvolvendo com PHP, MySQL e MongoDB.
 
 Atuação no desenvolvimento de projetos para diferentes setores, como engenharia automotiva, setor financeiro,
 manufatura de matérias primas e setores industriais.
@@ -38,7 +38,7 @@ Em seu tempo livre gosta de assistir séries e filmes (🎞️), ler livros (esp
 
 Ewerton Augusto from São Paulo/Brazil, 27 years old.
 
-Full-stack developer graduated in System Analysis and Development with 9 years of experience in technology area, expertises being perfected and focused on front-end, developing solutions with JavaScript, ReactJS, jQuery, CSS3, HTML5 and experience in back-end developing in PHP, C#, MySQL, and MongoDB.
+Full-stack developer graduated in System Analysis and Development with 9 years of experience in technology area, expertises being perfected and focused on front-end, developing solutions with JavaScript, ReactJS, jQuery, CSS3, HTML5 and experience in back-end developing in PHP, MySQL, and MongoDB.
 
 Professional performance in project development for several fields such as automotive engineering, financial department, raw material manufacture, and industrial area.
 
