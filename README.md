@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewerton-augusto)](https://www.linkedin.com/in/ewerton-augusto)
 
-[![Email_Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ewerton.santos2210@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewerton-augusto&layout=compact)](https://github.com/ewerton-augusto/github-readme-stats)
+![Ewerton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewerton-augusto&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewerton-augusto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
