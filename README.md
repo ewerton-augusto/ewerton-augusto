@@ -3,21 +3,19 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ewertonaugusto_)](https://twitter.com/ewertonaugusto_) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewerton-augusto)](https://www.linkedin.com/in/ewerton-augusto)
 
-----
-
 :computer: I'm a Junior Software Developer at [CI&T](https://ciandt.com)!
 
 :house_with_garden: I’m from São Paulo/Brazil.
 
 :books: I’m currently learning VueJS, ReactNative, and AWS.
 
+---
+
 ### Sobre mim! (PT-BR)
 
 Desenvolvedor full-stack formado em análise e desenvolvimento de sistemas com 9 anos de experiência na área de tecnologia e há 2 anos mergulhando em desenvolvimento de software, expertises sendo aperfeiçoadas e focados em front-end.
 
 Em seu tempo livre gosta de assistir séries e filmes (🎞️), ler livros (especialmente livros de desenvolvimento pessoal e educação financeira 📚), escutar músicas (🎵), tocar violão (:guitar:), participar de projetos voluntários e visitar familiares e amigos (:family:).
-
----
 
 ### About me! (ENG)
 
