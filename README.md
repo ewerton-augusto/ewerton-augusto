@@ -11,7 +11,7 @@
 
 ---
 
-### About me!
+## About me!
 
 Full-stack developer graduated in System Analysis and Development with 9 years of experience in technology area, and he has been diving into software development for 2 years, expertises being perfected and focused on front-end.
 
@@ -19,7 +19,13 @@ In his free time, He is keen on watching series and movies (🎞️), reading bo
 
 ---
 
-## Languages and tools:
+### Languages and tools:
 
 ![Ewerton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewerton-augusto&show_icons=true&theme=default) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewerton-augusto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+
+
+Thanks for visiting my GitHub profile!!! 
