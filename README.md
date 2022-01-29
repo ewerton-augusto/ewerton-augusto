@@ -11,7 +11,7 @@
 
 ---
 
-## About me!
+### About me!
 
 Full-stack developer graduated in System Analysis and Development with 9 years of experience in technology area, and he has been diving into software development for 2 years, expertises being perfected and focused on front-end.
 
