@@ -11,13 +11,7 @@
 
 ---
 
-### Sobre mim! (PT-BR)
-
-Desenvolvedor full-stack formado em análise e desenvolvimento de sistemas com 9 anos de experiência na área de tecnologia e há 2 anos mergulhando em desenvolvimento de software, expertises sendo aperfeiçoadas e focados em front-end.
-
-Em seu tempo livre gosta de assistir séries e filmes (🎞️), ler livros (especialmente livros de desenvolvimento pessoal e educação financeira 📚), escutar músicas (🎵), tocar violão (:guitar:), participar de projetos voluntários e visitar familiares e amigos (:family:).
-
-### About me! (ENG)
+### About me!
 
 Full-stack developer graduated in System Analysis and Development with 9 years of experience in technology area, and he has been diving into software development for 2 years, expertises being perfected and focused on front-end.
 
@@ -25,5 +19,7 @@ In his free time, He is keen on watching series and movies (🎞️), reading bo
 
 ---
 
+## Languages and tools:
+
+![Ewerton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewerton-augusto&show_icons=true&theme=default) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewerton-augusto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Ewerton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewerton-augusto&show_icons=true&theme=midnight-purple) 
