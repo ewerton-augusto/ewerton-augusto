@@ -19,7 +19,13 @@ Here are some ideas to get you started:
 # Ewerton Augusto :man_technologist: 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ewertonaugusto_)](https://twitter.com/ewertonaugusto_)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewerton-augusto)](https://www.linkedin.com/in/ewerton-augusto)
+
+[![Email_Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ewerton.santos2210@gmail.com)
+
+
+<!--
 
 ### Olá! tudo bom? Seja bem-vindo ao meu perfil! (PT-BR)
 
@@ -49,3 +55,7 @@ Management and leadership of desktop applications and web solutions life cycle, 
 In his free time, He is keen on watching series and movies (🎞️), reading books (especially books on personal development and financial education 📚), listening to music (🎵), playing the acoustic guitar (🎸), participating in volunteer projects, and visiting family and friends ( 👪).
 
 🌱 He is currently learning: JS (ReactJS, NextJS) | CSS (sass) | DevOps (Docker)
+
+-->
+
+
