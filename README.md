@@ -38,6 +38,8 @@ In his free time, He is keen on watching series and movies (🎞️), reading bo
   
 </code>
 
+---
+
 
 Thanks for visiting my GitHub profile!!!
 
