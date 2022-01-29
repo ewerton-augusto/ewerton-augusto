@@ -18,12 +18,16 @@ Here are some ideas to get you started:
 
 # Ewerton Augusto :man_technologist: 
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ewertonaugusto_)](https://twitter.com/ewertonaugusto_)
+:computer: I'm a Junior Software Developer!
 
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning VueJS, ReactNative, and AWS.
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ewertonaugusto_)](https://twitter.com/ewertonaugusto_)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewerton-augusto)](https://www.linkedin.com/in/ewerton-augusto)
 
-
-![Ewerton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewerton-augusto&show_icons=true&theme=midnight-purple)
+![Ewerton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewerton-augusto&show_icons=true&theme=midnight-purple) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewerton-augusto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
