@@ -3,11 +3,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ewertonaugusto_)](https://twitter.com/ewertonaugusto_) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewerton-augusto)](https://www.linkedin.com/in/ewerton-augusto)
 
-:computer: I'm a Junior Software Engineer at [CI&T](https://ciandt.com)!
+:computer: I'm a Software Engineer at [CI&T](https://ciandt.com)!
 
 :house_with_garden: I’m from São Paulo/Brazil.
 
-:books: I’m currently learning VueJS, ReactNative, and AWS.
+:books: I’m currently learning VueJS, Flutter, and AWS.
 
 ---
 
