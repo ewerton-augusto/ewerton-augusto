@@ -9,11 +9,13 @@
 
 :books: I’m currently learning VueJS, Flutter, and AWS.
 
+:cat: [2nd Github Account - Private Projects](https://github.com/ewerton-augusto-santos)
+
 ---
 
 ### About me!
 
-Full-stack developer graduated in System Analysis and Development with 9 years of experience in technology area, and he has been diving into software development for 2 years, expertises being perfected and focused on front-end.
+Full-stack developer graduated in System Analysis and Development with 9 years of experience in technology area, and he has been diving into software development for 3 years, expertises being perfected and focused on front-end.
 
 In his free time, He is keen on watching series and movies (🎞️), reading books (especially books on personal development and financial education 📚), listening to music (🎵), playing the acoustic guitar (🎸), participating in volunteer projects, and visiting family and friends ( 👪).
 
