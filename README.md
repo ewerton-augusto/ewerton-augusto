@@ -9,8 +9,6 @@
 
 :books: I’m currently learning VueJS, Flutter, and AWS.
 
-:cat: [2nd Github Account - Private Projects](https://github.com/ewerton-augusto-santos)
-
 ---
 
 ### About me!
