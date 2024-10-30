@@ -1,18 +1,16 @@
 # Ewerton Augusto :man_technologist:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewerton-augusto)](https://www.linkedin.com/in/ewerton-augusto)
+### A little bit about him!
 
-:computer: I'm a software developer focused on the front end!
+:computer: Software developer focused on the front end!
 
-:house_with_garden: Living in Perth, Australia - I was born and raised in São Paulo, Brazil.
+:house_with_garden: Living in Perth, Australia - Born and raised in São Paulo, Brazil.
 
-:books: I have been studying NuxtJS, Philosophy, AWS, and AI.
+:books: Studying NuxtJS, Philosophy, AWS, and AI at the moment.
 
-📘 I have been reading 'The Magic of Thinking Big - David J. Schwartz'
+📘 Reading 'The Magic of Thinking Big - David J. Schwartz' at the moment.
 
 ---
-
-### About Ewerton!
 
 With over 11 years of professional experience in technology, he has concentrated his efforts on Front-End development for the last 6 years. Delivering high-quality Front-End software using modern frameworks and foundational JavaScript.
 
@@ -40,4 +38,6 @@ In his free time, he is keen on watching series and movies (🎞️), reading bo
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewerton-augusto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-Thanks for visiting Ewerton's GitHub profile!!!
+Thanks for visiting Ewerton's GitHub profile!!! 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewerton-augusto)](https://www.linkedin.com/in/ewerton-augusto)
