@@ -1,29 +1,26 @@
 # Ewerton Augusto :man_technologist:
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ewertonaugusto_)](https://twitter.com/ewertonaugusto_) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewerton-augusto)](https://www.linkedin.com/in/ewerton-augusto)
 
-:computer: I'm a Software Engineer at [CI&T](https://ciandt.com)!
+:computer: I'm a software developer focused on the front end!
 
-:house_with_garden: I’m from São Paulo/Brazil.
+:house_with_garden: Living in Perth, Australia - I was born and raised in São Paulo, Brazil.
 
-:books: I’m currently learning VueJS, Flutter, and AWS.
+:books: I have been studying NuxtJS, Philosophy, AWS, and AI.
+
+📘 I have been reading 'The Magic of Thinking Big - David J. Schwartz'
 
 ---
 
-### About me!
+### About Ewerton!
 
-Full-stack developer graduated in System Analysis and Development with 9 years of experience in technology area, and he has been diving into software development for 3 years, expertises being perfected and focused on front-end.
+With over 11 years of professional experience in technology, he has concentrated his efforts on Front-End development for the last 6 years. Delivering high-quality Front-End software using modern frameworks and foundational JavaScript.
 
-In his free time, He is keen on watching series and movies (🎞️), reading books (especially books on personal development and financial education 📚), listening to music (🎵), playing the acoustic guitar (🎸), participating in volunteer projects, and visiting family and friends ( 👪).
+In his free time, he is keen on watching series and movies (🎞️), reading books (especially books on personal development and financial education 📚), practicing jiu-jitsu (👘), playing acoustic guitar (🎸), participating in volunteer projects, and visiting family and friends ( 👪).
 
 ---
 
 ### Languages and tools:
-
-  ![Ewerton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewerton-augusto&show_icons=true&theme=default) 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewerton-augusto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
   <p align="center">
     <img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -31,13 +28,16 @@ In his free time, He is keen on watching series and movies (🎞️), reading bo
     <img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img height="20" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
     <img height="20" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img height="20" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">  
+    <img height="20" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+    <img height="20" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82">
     <img height="20" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
     <img height="20" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   </p>
 
-
+  ![Ewerton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewerton-augusto&show_icons=true&theme=default) 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewerton-augusto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-Thanks for visiting my GitHub profile!!!
+Thanks for visiting Ewerton's GitHub profile!!!
